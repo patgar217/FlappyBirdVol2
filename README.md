@@ -1,4 +1,4 @@
-# 21FinalProj
+# Flappy Bird Vol. 2
 This is a Flappy Bird Rendition using Python's Turtle feature
 
 This application was created as a requirement for CMSC 21.
